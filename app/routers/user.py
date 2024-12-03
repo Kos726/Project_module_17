@@ -4,7 +4,7 @@ router = APIRouter(prefix="/user", tags=["user"])
 
 
 @router.get("/")
-async def all_users():
+async def all_userss():
     pass
 
 
