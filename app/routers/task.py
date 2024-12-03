@@ -4,7 +4,7 @@ router = APIRouter(prefix="/task", tags=["task"])
 
 
 @router.get("/")
-async def all_taskss():
+async def all_tasks():
     pass
 
 
